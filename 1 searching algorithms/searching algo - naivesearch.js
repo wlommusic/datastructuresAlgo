@@ -9,4 +9,4 @@ function naiveSearch(long, short){
     return count;
 }
 
-naiveSearch("lorie loled", "lol"
+naiveSearch("Redmi Note 9 Pro (Interstellar Black, 4GB RAM, 64GB Storage)- Latest 8nm Snapdragon 720G & Alexa Hands-Free Capabled", "redmi")
